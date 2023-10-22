@@ -1,1 +1,2 @@
 # bsol
+**Basic soilidity tryouts**
